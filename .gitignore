@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Test artifacts
+.pytest_cache/
+test-results/
+screenshots/
+videos/
+state.json
+
+# IDE
+.vscode/
+.idea/
+
+# Reports (optional - you may want to keep these)
+*.html
+
+# OS files
+.DS_Store
+Thumbs.db
